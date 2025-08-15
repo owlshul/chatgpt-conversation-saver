@@ -10,11 +10,11 @@ A minimal Chrome/Chromium extension for **chatgpt.com** (and **chat.openai.com**
 - Works on `https://chatgpt.com/*` and `https://chat.openai.com/*`
 - PDF export fixed via **blob HTML** + opener-triggered `print()`
 
-## Install (Developer Mode)
-1. Download this repo.
+## Install
+1. Download the Zip file (chatgpt-conversation-saver-v1.1.0), extract it.
 2. Open Chrome/Brave/Edge and go to `chrome://extensions`.
 3. Toggle **Developer mode** (top right).
-4. Click **Load unpacked** and select this folder.
+4. Click **Load unpacked** and select the extracted folder (or just drag and drop the folder).
 5. Open any ChatGPT chat → click the **Save** pill at the bottom-right.
 
 ## Usage
